@@ -37,7 +37,7 @@ This Terraform project creates a complete networking setup in AWS, including:
 ##  Prerequisites
 
 - [Terraform](https://www.terraform.io/downloads)
-- AWS CLI configured (`aws configure` or using named profiles)
+- AWS CLI configured (`aws configure` or using named profiles) for now i have used "default"
 - An AWS account with sufficient IAM permissions to create VPC components
 
 ---
