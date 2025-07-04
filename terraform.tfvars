@@ -1,4 +1,4 @@
-vpc_name                    = "lelo-vpc"
+vpc_name                    = "myvpc"
 profile                     = "default"
 vpc_cidr_block              = "20.0.0.0/16"
 public_subnet_1_cidr_block  = "20.0.0.0/24"
