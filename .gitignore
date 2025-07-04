@@ -1,0 +1,13 @@
+# Terraform state
+*.tfstate
+*.tfstate.backup
+
+# Terraform provider lock file (optional, keeps it portable)
+.terraform.lock.hcl
+
+# Local Terraform dirs
+.terraform/
+
+# OS/macOS specific
+.DS_Store
+
