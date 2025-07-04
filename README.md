@@ -10,6 +10,8 @@ This Terraform project creates a complete networking setup in AWS, including:
 - Outputs to reference the created infrastructure
 
 ---
+![aws_terra](https://github.com/user-attachments/assets/cb802c9d-6328-4b88-b888-ff945d17c5a7)
+
 
 ## Project Structure
 
